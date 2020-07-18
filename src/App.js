@@ -21,6 +21,12 @@ export default function App() {
                 </div>
             </div>
          </div>
+         <div className="scrollDown">
+             <span></span>
+             <span></span>
+             <span></span>
+         </div>
+         
     </div>
   );
 }
