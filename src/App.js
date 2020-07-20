@@ -1,10 +1,11 @@
 import React from "react";
 import "./styles.css";
 import Header from "./Header";
+import Form from "./Form";
 
 export default function App() {
-  return (
-    <div className="App">
+  return (<>
+    <section id="home" className="App">
        <Header/>
        <div className="row mainpage">
 
@@ -26,7 +27,14 @@ export default function App() {
              <span></span>
              <span></span>
          </div>
-         
-    </div>
+
+
+        
+
+    </section>
+    <section id="predict" className="estimate">
+        <Form/>
+    </section>
+    </>
   );
 }
