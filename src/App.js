@@ -15,10 +15,10 @@ export default function App() {
                 
             <div className="col-md-6 description">
                 <div>
-                    <h1><span>Prevel</span> your Journey</h1>
+                    <h1><span>PreTraVel</span> your Journey</h1>
                 </div>
                 <div>
-                    <h2>A site to <span>Pre</span>valuate your expenses. Predict your flight price here</h2>
+                    <h2><span>Pre</span>valuate your expenses before your Journey. Predict your flight price here</h2>
                 </div>
             </div>
          </div>
